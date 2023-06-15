@@ -9,6 +9,14 @@ class Oralstories{
    }
    story(){}
 }
+//5. Create a class called Product with attributes for name, price, and quantity.
+//Implement a method to calculate the total value of the product (price * quantity).
+//Create multiple objects of the Product class and calculate their total values.
+
+//input name,price and quantity
+//output calculation of total values
+//process create a product class with methods for calculation
+
 //2.input
 //output
 //ptocess create recipe class

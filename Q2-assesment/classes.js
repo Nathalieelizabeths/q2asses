@@ -22,6 +22,17 @@ class Product{
         this.price=price
         this.quantity=quantity
     }
+    product(){
+        const price =40
+        const quantity=5
+        if(this.price==price && this.quantity==quantity){
+            console.log(price*quantity)
+        }
+        else{
+            console.log("product not found")
+        }
+    }
+
 }
 
 //2.input

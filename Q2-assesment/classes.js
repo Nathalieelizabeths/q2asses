@@ -16,6 +16,13 @@ class Oralstories{
 //input name,price and quantity
 //output calculation of total values
 //process create a product class with methods for calculation
+class Product{
+    constructor(name,price,quantity){
+        this.name=name
+        this.price=price
+        this.quantity=quantity
+    }
+}
 
 //2.input
 //output
